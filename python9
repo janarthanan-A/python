@@ -1,4 +1,4 @@
-[20/05, 3:49 pm] Jai Surya Ksr Csbs: a = input()
+ a = input()
 b = input()
 c = a + b
 print(c)
